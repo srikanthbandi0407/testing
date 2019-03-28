@@ -7,7 +7,7 @@ public class singleinhertitance {
 		a s=new a();
 		s.cc();
 		
-		sysodhghgfhgf
+	
 	}
 
 }
